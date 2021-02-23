@@ -3,7 +3,4 @@ for(var i=0; i<7; i++) {
     if (i % 2 === 1) {
         console.log(dias[i] + " Es un día par");
     }
-    if(i == 6){
-        alert("Y asi llegamos al domingo.");
-    }
 }
