@@ -4,6 +4,6 @@ for(var i=0; i<7; i++) {
         console.log(dias[i] + " Es un día par");
     }
     if(i == 6){
-        alert("A disfrutar que es domingo");
+        alert("Y asi llegamos al domingo.");
     }
 }
